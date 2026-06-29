@@ -19,16 +19,6 @@ A simple and responsive Weather Station web application built using HTML, Bootst
 - JavaScript (ES6)
 - OpenWeatherMap API
 
-📷 Screenshot
-
-weather-station.png
-📁 Project Structure
-
-Weather-Station/
-│── index.html
-│── weather-station.png
-│── script.js
-
 
 ⚙️ Getting Started
 
